@@ -1,10 +1,12 @@
 # practica-ajax-datatables
 
+En la carpeta base_de_datos se proporciona la documentación original de la aplicación que se simula así como ficheros para realizar creación y la inserción de los datos necesarios en la base de datos. Corresponden a ejercicios que se han hecho previamente en clase.
+
 1. Funcionalidad y apariencia de Datatables
    - Configura el plugin datatables con tu estilo preferido (bootstrap, themeroller o uno propio).
    - Configura datatables con paginación y filtro que deben funcionar correctamente. 
    - Configura datatables con mensajes en español. 
-   - Configura datatables para que acceda a los datos de la base de datos y muestre las mismas columnas que en el vídeo que adjunto. 
+   - Configura datatables para que acceda a los datos de la base de datos y muestre las mismas columnas que en el vídeo demo.webm. 
    - Para "personalizar" la vista que necesita datatables, se pueden utilizar las funciones de mysql concat y group_concat
 
 2. Borrar doctores
