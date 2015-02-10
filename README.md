@@ -28,4 +28,4 @@
        - Nombre de doctor requerido (solo letras)
        - Número de colegiado sea numérico, no requerido.
 
-5. Para la entrega de la práctica se debe dejar una versión de producción (minified, minimizando el número de http requests.. en el servidor infenlaces.com, de modo que sea accesible navegando desde la url anterior). Debe haber una versión de desarrollo colgada en github a partir de un **fork de la que aquí presento**. Deberá tener un **mínimo de 5 commits en 3 días diferentes**. **Se recomienda el uso de Yeoman para la realización de la práctica.**
+5. Para la entrega de la práctica se debe dejar una **versión de producción** (minified, minimizando el número de http requests.. en el servidor infenlaces.com, de modo que sea accesible navegando desde la url anterior). Debe haber una versión de desarrollo colgada en github a partir de un **fork de la que aquí presento**. Deberá tener un **mínimo de 5 commits en 3 días diferentes**. **Se recomienda el uso de Yeoman para la realización de la práctica.**
