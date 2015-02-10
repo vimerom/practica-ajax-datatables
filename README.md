@@ -2,6 +2,10 @@
 
 En la carpeta base_de_datos se proporciona la documentación original de la aplicación que se simula así como ficheros para realizar creación y la inserción de los datos necesarios en la base de datos. Corresponden a ejercicios que se han hecho previamente en clase.
 
+Se proporciona un video demo.webm donde se muestra el comportamiento aproximado que debe tener la aplicación. 
+
+Los requerimientos que debe cumplir la aplicación son los siguientes:
+
 1. Funcionalidad y apariencia de Datatables
    - Configura el plugin datatables con tu estilo preferido (bootstrap, themeroller o uno propio).
    - Configura datatables con paginación y filtro que deben funcionar correctamente. 
