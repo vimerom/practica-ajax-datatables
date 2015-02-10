@@ -23,9 +23,9 @@
 4. Modificar doctores
    - Mediante ajax, se deben poder modificar doctores (nombre, número colegiado, clínica/s asociada) actualizando la tabla de datos a la vez que se inserta en la bbdd.
    - Debe mostrar una ventana tipo growl con el éxito o fracaso de la operación
-   - Validación: 
-    - Al modificar doctores es necesario realizar validación: 
-    - Asignación de al menos una clínica
-    - Nombre de doctor requerido (solo letras)
-    - Número de colegiado sea numérico, no requerido.
+    - Al modificar doctores es necesario realizar **validación**: 
+       - Asignación de al menos una clínica
+       - Nombre de doctor requerido (solo letras)
+       - Número de colegiado sea numérico, no requerido.
 
+5. Para la entrega de la práctica se debe dejar una versión de producción (minified, minimizando el número de http requests.. en el servidor infenlaces.com, de modo que sea accesible navegando desde la url anterior). Debe haber una versión de desarrollo colgada en github a partir de un **fork de la que aquí presento**. Deberá tener un **mínimo de 5 commits en 3 días diferentes**. **Se recomienda el uso de Yeoman para la realización de la práctica.**
